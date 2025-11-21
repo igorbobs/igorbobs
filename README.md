@@ -16,7 +16,7 @@ Sou um estudante de **Engenharia de Computação** apaixonado por tecnologia, de
 
 🛠️ Também tenho experiência com **SQL Server, Git, GitHub e análise de dados**.  
 
-🎯 Atualmente, estou me aprofundando em **cibersegurança e pentests**, além de desenvolver um projeto de **com IA**.  
+🎯 Atualmente, estou me aprofundando em **cibersegurança e pentests**, além de desenvolver um projeto **com IA**.  
 
 📚 No meu GitHub, você encontrará projetos voltados para desenvolvimento backend, análise de dados e segurança da informação.   
 
